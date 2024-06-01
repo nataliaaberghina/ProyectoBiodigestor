@@ -1,0 +1,21 @@
+# Ignorar archivos de configuración específicos del entorno
+.env
+
+# Ignorar archivos de registro
+logs/
+
+# Ignorar archivos de dependencias de paquetes o bibliotecas
+node_modules/
+
+# Ignorar archivos compilados
+dist/
+
+# Ignorar archivos de respaldo generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración personal
+config.json
+
+# Ignorar archivos de caché
+.cache/
